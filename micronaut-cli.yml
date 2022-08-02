@@ -1,0 +1,6 @@
+applicationType: default
+defaultPackage: com.hbr.zebla
+testFramework: junit
+sourceLanguage: java
+buildTool: gradle
+features: [annotation-api, app-name, data, data-jpa, email-template, github-workflow-graal-docker-registry, graalvm, gradle, h2, http-client, jackson-databind, java, java-application, jdbc-hikari, jmx, junit, liquibase, logback, micronaut-aot, micronaut-build, netty-server, openapi, readme, serialization-jackson, shade, swagger-ui, yaml]
